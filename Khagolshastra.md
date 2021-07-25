@@ -4,7 +4,6 @@
 </head>
 <body>
 <body text="Black" bgcolor="LightBlue">
-<h1><u><b>खगोलशास्त्र</b></u></h1>
 <img src="LOGO & Heading.jpeg" width="1350" height="200">
 
 <h1><u>Solar System</u></h1>
