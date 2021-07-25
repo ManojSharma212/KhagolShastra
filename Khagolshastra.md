@@ -4,10 +4,10 @@
 </head>
 <body>
 <body text="Black" bgcolor="LightBlue">
-<img src="C:\Users\Manoj Sharma\Desktop\LOGO & Heading.jpeg" width="1350" height="200">
+<img src="LOGO & Heading.jpeg" width="1350" height="200">
 
 <h1><u>Solar System</u></h1>
-<h2><img src="C:\Users\Manoj Sharma\Desktop\Solar System.jpg" width="400" height="200"></h2>
+<h2><img src="Solar System.jpg" width="400" height="200"></h2>
 
 <p>
 <b><u>
