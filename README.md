@@ -1,5 +1,5 @@
-# KhagolShastra
+# Khagolshastra
 <HTML>
   <H1>THIS IS A <B>KhagolShastra</B> WEBSITE LINK</H>
  
-<p><a herf="KhagolShastra.html"> KhagolShastra(खगोलशास्त्र)</a>
+<p><a herf="Khagolshastra.html"> Khagolshastra(खगोलशास्त्र)</a>
